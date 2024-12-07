@@ -1,0 +1,67 @@
+.header-logo {
+  max-width: 120px;
+  padding: 20px 0;
+}
+.sec1 {
+  background-color: #fff;
+  padding: 40px 20px;
+  text-align: left;
+  border-bottom: 1px solid #000;
+}
+
+.sec1 img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sec1-content a{
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  display: inline-block;
+  margin-top: 20px;
+}
+.sec2{
+  border-bottom: 1px solid #eee;
+}
+.course-card img{
+  width: 100%;
+  height: auto;
+}
+.course-card div span{
+  color: #ffc107;
+}
+
+.category{
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.category img{
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.footer-logo{
+  width: 120px;
+  overflow: hidden;
+}
+.app-buttons a img{
+  width: 100px;
+
+}
+.social-icons a img{
+  width: 20px;
+
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+}
+.bottom-links{
+  border-top: 1px solid gray;
+
+}
